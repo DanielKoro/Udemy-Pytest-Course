@@ -1,0 +1,1 @@
+venv/scripts/activate - #activates your virtual enviroment
