@@ -5,7 +5,7 @@ from rest_framework.request import Request
 from rest_framework.response import Response
 from rest_framework.viewsets import ModelViewSet
 
-from companies.models import Company
+from api.coronavstech.companies.models import Company
 from companies.serializers import CompanySerializer
 
 
